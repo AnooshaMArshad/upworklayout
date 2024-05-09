@@ -1,0 +1,35 @@
+*{
+margin: 0px;
+padding: 00px;
+box-sizing: border-box;
+
+}
+.naveber{
+   border-radius: 3px solid white;
+}
+
+.element{
+margin-left: 20px;
+}
+.Other{
+
+padding-left :50px;
+
+
+}
+
+.contact-us{
+    margin-left: 200px;
+}
+
+.first-image{
+    background-image: url(./images/Rectangle\ 14.png);
+height: 500px;
+background-size:cover;
+
+}
+
+.text-section{
+    padding-top: 150px;
+font-size: larger;
+}
